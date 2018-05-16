@@ -8,4 +8,4 @@ schedule with the press of a button. Built following Stephen Grinder
 course on Udemy. Not yet deployed via app store - will be rebuilding
 with updated React Native tools.
 
-* the-complete-react-native-and-redux-course \*[https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/t/lecture/5870478?start=0]
+* the-complete-react-native-and-redux-course \* [https://www.udemy.com/the-complete-react-native-and-redux-course/]
